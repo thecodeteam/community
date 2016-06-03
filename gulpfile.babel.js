@@ -6,9 +6,11 @@ import rimraf from 'gulp-rimraf';
 
 const paths = {
   in_js: "lib/*.js",
-  in_assets: "lib/assets/*",
+  in_assets: "lib/assets/**/*",
   out_js: "node",
   out_assets: "node/assets",
+  in_views: "views/*.html",
+  out_views: "node/views",
 };
 
 gulp.task('es6to5', () => {
@@ -22,9 +24,14 @@ gulp.task('copyassets', () => {
              .pipe(gulp.dest(paths.out_assets));
 });
 
+gulp.task('copyviews', () => {
+  return gulp.src(paths.in_views)
+             .pipe(gulp.dest(paths.out_views));
+});
+
 gulp.task('clean', () => {
   return gulp.src(paths.out_js, { read: false })
              .pipe(rimraf());
 });
 
-gulp.task('default', ['es6to5', 'copyassets']);
+gulp.task('default', ['es6to5', 'copyassets', 'copyviews']);
