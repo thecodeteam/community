@@ -17,7 +17,8 @@
               <form id="invite">
                 <input name="email" type="email" class="form-input" placeholder="you@youremail.com">
                 <input type="hidden" name="channel" value="null">
-                <button class='btn btn-conf btn-blue'>Register here</button>
+                <button class='btn btn-conf btn-blue'>Sign up here</button>
+              </br><input type=checkbox name=coc value=1> I agree to the <a href={{{coc}}}>Code of Conduct</a>
               </form>
             </div><!--/mt-->
             <h4>Right now there are <b>{{{active}}}</b> online community members</h4>
@@ -30,10 +31,9 @@
     <div class="container ptb">
       <div class="row">
         <div class="col-md-6">
-          <h2>The {code} Community is open to everyone</h2>
-          <p class="mt">The {code} Community is managed and run by EMC {code}, however anyone with an interesting coding, hacking or creating new and interesting software is welcome.</p>
-          <p>The goal of the {code} Community is to create a safe place for communication and collaboration on Open Source projects by EMC and others, such as Docker, Apache Mesos, DC/OS and Kubernetes.</p>
-          <p>To be a member of the {code} Community you have to adhere to our <b><a href="{{{coc}}}">Code of Conduct</a></b></p>
+          <h2>We are one of the largest Open Source focused Slack teams in the world</h2>
+          <p class="mt">With <b>{{total}}</b> registered members and growing, we are currently one of the largest Open Source focused communities on Slack. We use Slack as a communication tool for projects, collaboration and general news about the Open Source world.</p>
+          <p>We are an inclusive community by nature. If you're interested in anything related to EMC {code} or the projects we're working on within the community (containers, automation, virtualization, monitoring, logging, infrastructure as code), we’d love to have you join us!</p>
           <!--
           <p class="store">
             <a href="#"><img src="assets/img/app-store.png" height="50" alt=""></a>
@@ -50,12 +50,13 @@
     <div class="container mtb">
       <div class="row">
         <div class="col-md-6">
-          <img src="assets/img/Slack_Mark_Web.png" class="img-responsive" alt="Slack Logo">
+          <img src="assets/img/Slack_Mark_Web-mini.png" class="img-responsive" alt="Slack Logo">
         </div>
         <div class="col-md-6">
-          <h2>One of the largest Open Source focused Slack teams in the world</h2>
-          <p class="mt">With <b>{{total}}</b> registered members and growing, we are currently one of the largest Open Source focused communities on Slack. We use Slack as a communication tool for projects, collaboration and general news around the Open Source world.</p>
-          <p>We want you in our community! If you're interested in anything related to EMC {code} or any of the projects we're working on in the community (containers, automation, virtualization, monitoring, logging, infrastructure as code), we’d love to have you be a part of us.</p>
+          <h2>The {code} Community is open to everyone</h2>
+          <p class="mt">Anyone with an interest in coding, hacking or creating new and interesting software is welcome! The {code} Community is managed and run by EMC {code}, the Open Source group within EMC.</p>
+          <p>The goal of the {code} Community is to create a safe place for communication and collaboration on Open Source projects by EMC and others, such as Docker, Mesos, and Kubernetes.</p>
+          <p>Keep in mind that in order to be a member of the {code} Community you must adhere to our <b><a href="{{{coc}}}">Code of Conduct</a></b>.</p>
           <!--
           <p class="store">
             <a href="#"><img src="assets/img/app-store.png" height="50" alt=""></a>
@@ -69,10 +70,10 @@
     <div class="container mtb">
       <div class="row">
         <div class="col-md-6">
-          <h2>Community programs - <br/><b>DevHigh5</b> and <b>{code} Ambassadors</b></h2>
-          <p class="mt">As a member of the community, you can also be active in one of the programs we run. If you're a coder, tinkererer and want to promote something you have built, the DevHigh5 program should be right up your alley. If you'd rather learn something and then teach others by writing blog posts, creating instruction videos or presenting at meetups and events, the {code} Ambassadors program should be right for you.</p>
-          <p>As a part of the <b>DevHigh5</b> program, you'll have created a project, hack or similar that augments and promotes Open Source at EMC or with EMC's existing products.</p>
-          <p>If you'd rather write blogs than code, then we'd love to have you in our <b>{code} Ambassadors</b> program. The program is created for individuals that really shine when it comes to presenting modern technical functionality and distilling down the essence of it to a wider group of people.</p>
+          <h2>Community Programs - <br/><b>DevHigh5</b> and <b>{code} Ambassadors</b></h2>
+          <p class="mt">As a member of the community you will have the opportunity to participate in the outreach programs that we run.</p>
+          <p><b>DevHigh5</b>: If you are a coder or tinkererer looking to promote something you have built around EMC technologies, this is the program for you. You will have the opportunity to create projects that enhance Open Source at EMC and augments EMC's existing products.
+          <p><b>{code} Ambassadors</b>: Perhaps learning by doing is more your speed. Join our Ambassadors program and have the chance to write blogs, create instructional videos and present at local events and meetups. The Ambassadors program is created for individuals that really shine when it comes to presenting modern technical functionality and distilling down the essence of it to a wider group of people.</p>
           <!--
           <p class="store">
             <a href="#"><img src="assets/img/app-store.png" height="50" alt=""></a>
@@ -182,32 +183,42 @@
           <h2>Featured EMC {code} Projects</h2>
           <div class="col-md-2 col-md-offset-1">
             <ul>
-              <li><img src="http://emccode.com/images/items/rackhd.png" alt="RackHD"></li>
-              <li><p>RackHD</p></li>
+              <a href="https://github.com/RackHD">
+                <li><img src="http://emccode.com/images/items/rackhd.png" alt="RackHD"></li>
+                <li><p>RackHD</p></li>
+              </a>
             </ul>
           </div>
           <div class="col-md-2">
             <ul>
-              <li><img src="http://emccode.com/images/items/rexray.png" alt="REX-Ray"></li>
-              <li><p>REX-Ray</p></li>
+              <a href="https://github.com/emccode/rexray">
+                <li><img src="http://emccode.com/images/items/rexray.png" alt="REX-Ray"></li>
+                <li><p>REX-Ray</p></li>
+              </a>
             </ul>
           </div>
           <div class="col-md-2">
             <ul>
-              <li><img src="http://emccode.com/images/items/polly.jpg" alt="Polly"></li>
-              <li><p>Polly</p></li>
+              <a href="https://github.com/emccode/polly">
+                <li><img src="http://emccode.com/images/items/polly.jpg" alt="Polly"></li>
+                <li><p>Polly</p></li>
+              </a>
             </ul>
           </div>
           <div class="col-md-2">
             <ul>
-              <li><img src="http://emccode.com/images/items/mesos-module-dvdi.png" alt="mesos-module-dvdi"></li>
-              <li><p>mesos-module-dvdi</p></li>
+              <a href="https://github.com/emccode/mesos-module-dvdi">
+                <li><img src="http://emccode.com/images/items/mesos-module-dvdi.png" alt="mesos-module-dvdi"></li>
+                <li><p>mesos-module-dvdi</p></li>
+              </a>
             </ul>
           </div>
           <div class="col-md-2">
             <ul>
-              <li><img src="http://emccode.com/images/items/libstorage.png" alt="libStorage"></li>
-              <li><p>libStorage</p></li>
+              <a href="https://github.com/emccode/libstorage">
+                <li><img src="http://emccode.com/images/items/libstorage.png" alt="libStorage"></li>
+                <li><p>libStorage</p></li>
+              </a>
             </ul>
           </div>
         </div><!--/row-->
