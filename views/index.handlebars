@@ -3,8 +3,11 @@
   <body>
 
     <div id="h">
-      <div class="logo">{code} Community</div>
+      <div class="logo">EMC {code} Community</div>
       <div class="social hidden-xs">
+        <a href="http://emccode.com"><i class="ion-earth"></i></a>
+        <a href="http://store.emccode.com"><i class="ion-ios-cart"></i></a>
+        <a href="https://www.youtube.com/playlist?list=PLbssOJyyvHuWiBQAg9EFWH570timj2fxt"><i class="ion-social-youtube"></i></a>
         <a href="https://twitter.com/emccode"><i class="ion-social-twitter"></i></a>
         <a href="https://blog.emccode.com"><i class="ion-social-wordpress"></i></a>
         <a href="https://github.com/emccode"><i class="ion-social-github"></i></a>
@@ -12,7 +15,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 centered">
-            <h1>Join our community of <br/>{{{total}}} {code} loving members!</h1>
+            <h1>Join our community of <br/>{{{formatNumber total}}} {code} loving members!</h1>
             <div class="mtb">
               <form id="invite">
                 <input name="email" type="email" class="form-input" placeholder="you@youremail.com">
@@ -21,7 +24,7 @@
               </br><input type=checkbox name=coc value=1> I agree to the <a href={{{coc}}}>Code of Conduct</a>
               </form>
             </div><!--/mt-->
-            <h4>Right now there are <b>{{{active}}}</b> online community members</h4>
+            <h4>Right now there are <b>{{{formatNumber active}}}</b> online community members</h4>
             <!-- <iframe src="iframe/dialog"></iframe> -->
           </div>
         </div><!--/row-->
@@ -32,7 +35,7 @@
       <div class="row">
         <div class="col-md-6">
           <h2>We are one of the largest Open Source focused Slack teams in the world</h2>
-          <p class="mt">With <b>{{total}}</b> registered members and growing, we are currently one of the largest Open Source focused communities on Slack. We use Slack as a communication tool for projects, collaboration and general news about the Open Source world.</p>
+          <p class="mt">With <b>{{formatNumber total}}</b> registered members and growing, we are currently one of the largest Open Source focused communities on Slack. We use Slack as a communication tool for projects, collaboration and general news about the Open Source world.</p>
           <p>We are an inclusive community by nature. If you're interested in anything related to EMC {code} or the projects we're working on within the community (containers, automation, virtualization, monitoring, logging, infrastructure as code), we’d love to have you join us!</p>
           <!--
           <p class="store">
@@ -70,10 +73,9 @@
     <div class="container mtb">
       <div class="row">
         <div class="col-md-6">
-          <h2>Community Programs - <br/><b>DevHigh5</b> and <b>{code} Ambassadors</b></h2>
+          <h2>Community Programs - <b><a href="https://github.com/emccode/emccode.github.io/wiki/DevHigh5-Program-Overview-and-FAQ">DevHigh5</a></b></h2>
           <p class="mt">As a member of the community you will have the opportunity to participate in the outreach programs that we run.</p>
-          <p><b>DevHigh5</b>: If you are a coder or tinkererer looking to promote something you have built around EMC technologies, this is the program for you. You will have the opportunity to create projects that enhance Open Source at EMC and augments EMC's existing products.
-          <p><b>{code} Ambassadors</b>: Perhaps learning by doing is more your speed. Join our Ambassadors program and have the chance to write blogs, create instructional videos and present at local events and meetups. The Ambassadors program is created for individuals that really shine when it comes to presenting modern technical functionality and distilling down the essence of it to a wider group of people.</p>
+          <p><b><a href="https://github.com/emccode/emccode.github.io/wiki/DevHigh5-Program-Overview-and-FAQ">DevHigh5</a></b>: If you are a coder or tinkererer looking to promote something you have built around EMC technologies, this is the program for you. You will have the opportunity to create projects that enhance Open Source at EMC and augments EMC's existing solutions.
           <!--
           <p class="store">
             <a href="#"><img src="assets/img/app-store.png" height="50" alt=""></a>
@@ -113,7 +115,7 @@
                   <li>Slack Team</li>
                   <li>Everything Public</li>
                   <li>1300+ Users</li>
-                  <li>Unlimited integrations for EMC projects</li>
+                  <li>Slack integrations for EMC projects</li>
                 </ul>
                 <!--
                 <div class="price">
@@ -135,9 +137,9 @@
               <div class="p-body">
                 <ul class="features">
                   <li>Open Source Focused</li>
-                  <li>All material published publicly</li>
+                  <li><a href="https://github.com/emccode/training">All material published publicly</a></li>
                   <li>Tens of Thousands already trained</li>
-                  <li>Self-paced and videos</li>
+                  <li><a href="https://github.com/emccode/training/tree/master/accreditation">Instructional videos</a></li>
                 </ul>
                 <!--
                 <div class="price">
@@ -180,7 +182,7 @@
     <div id="g">
       <div class="container">
         <div class="row sponsor centered aligncenter">
-          <h2>Featured EMC {code} Projects</h2>
+          <h2>Featured EMC {code} Projects</h2></br></br>
           <div class="col-md-2 col-md-offset-1">
             <ul>
               <a href="https://github.com/RackHD">
@@ -256,9 +258,12 @@
       <div class="container">
         <div class="row centered">
           <h2>Got feedback?</h2>
-          <h4>emccode@emc.com</h4>
+          <h4><a href=mailto:emccode@emc.com>emccode@emc.com</a></h4>
 
           <p class="mt">
+            <a href="http://emccode.com"><i class="ion-earth"></i></a>
+            <a href="http://store.emccode.com"><i class="ion-ios-cart"></i></a>
+            <a href="https://www.youtube.com/playlist?list=PLbssOJyyvHuWiBQAg9EFWH570timj2fxt"><i class="ion-social-youtube"></i></a>
             <a href="https://twitter.com/emccode"><i class="ion-social-twitter"></i></a>
             <a href="https://blog.emccode.com"><i class="ion-social-wordpress"></i></a>
             <a href="https://github.com/emccode"><i class="ion-social-github"></i></a>
