@@ -18,7 +18,9 @@
     "opentype.js": "0.4.4",
     "socket.io": "1.4.4",
     "superagent": "0.21.0",
-    "vd": "0.1.0"
+    "vd": "0.1.0",
+    "express-handlebars": "3.0.0",
+    "handlebars-intl": "1.1.1"
   },
   "devDependencies": {
     "mocha": "2.2.4",
