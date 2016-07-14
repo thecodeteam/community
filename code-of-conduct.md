@@ -15,8 +15,8 @@ Participants are responsible for knowing and abiding by the following:
 * Whether you're a regular contributor or a newcomer, all members care about making this community a safe place for you and we've got your back.
 * We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic.
 * We will exclude you from interaction if you insult, demean, or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
-* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the Slack admins, event organizers, or any member of the Community team at EMC {code} (Jonas Rosland and Kenny Coleman).
-* If you believe someone is violating the code of conduct, we ask that you report it by emailing [emccode@emc.com](mailto:emccode@emc.com) or reaching out to the admins of our Slack team (Jonas Rosland and Kenny Coleman). Your privacy will be respected.
+* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the Slack admins, event organizers, or any member of the Community team at EMC {code} (Jonas Rosland [jonas.rosland@emc.com](mailto:jonas.rosland@emc.com) and Stephanie Carlson [stephanie.carlson@emc.com](mailto:stephanie.carlson@emc.com)).
+* If you believe someone is violating the code of conduct, we ask that you report it by emailing [emccode@emc.com](mailto:emccode@emc.com) or reaching out to the admins of our Slack team (Jonas Rosland (@jonasrosland) and Stephanie Carlson (@stephcarlson). Your privacy will be respected.
 
 These notes help when discussing code and its validity:
 
@@ -40,7 +40,7 @@ This Code of Conduct reflects the agreed standards of behavior for members of ou
 
 Your actions and work will affect and be used by other people, and you in turn will depend on the work and actions of others. Any decision you make will affect other community members, and we expect you to take those consequences into account when making decisions.
 
-As a contributor, ensure that you give full credit for the work of others and bear in mind how your changes affect others. It is also expected that you try to follow the [contribution guidelines](https://github.com/emccode/emccode.github.io/wiki/How-to-contribute-to-EMC-CODE-projects).
+As a contributor, ensure full credit is given for the work of others and bear in mind how your changes will affect others. It is also expected that you try to follow the [contribution guidelines](https://github.com/emccode/emccode.github.io/wiki/How-to-contribute-to-EMC-%7Bcode%7D-and-add-your-project).
 
 As a user, remember that contributors work hard on their part and take great pride in it. If you are frustrated, your problems are more likely to be resolved if you can give accurate and well-mannered information to all concerned.
 
@@ -48,7 +48,7 @@ As a user, remember that contributors work hard on their part and take great pri
 
 In order for the community to stay healthy, its members must feel comfortable and accepted. Treating one another with respect is absolutely necessary for this. In a disagreement, remember to assume that people mean well.
 
-We do not tolerate personal attacks, racism, sexism, or any other form of discrimination. Disagreement is inevitable, from time to time, but respect for the views of others will go a long way to winning respect for your own view. Respecting other people, their work, their contributions and assuming well-meaning motivation will make community members feel comfortable and safe and will result in motivation and productivity.
+We do not tolerate personal attacks, racism, sexism, ageism, or any other form of discrimination. Disagreement is inevitable, from time to time, but respect for the views of others will go a long way to winning respect for your own view. Respecting other people, their work, their contributions and assuming well-meaning motivation will make community members feel comfortable and safe and will result in motivation and productivity.
 
 We expect members of our community to be respectful when dealing with other contributors, users, and communities. Remember that we are an international project and that you may be unaware of important aspects of other cultures.
 
@@ -68,7 +68,7 @@ As a user, your feedback is important, as is its form. Poorly thought-out commen
 
 We are a pragmatic community. We value tangible results over having the last word in a discussion. We defend our core values, but we don't let arguments about minor issues get in the way of achieving more important results. We are open to suggestions and welcome solutions regardless of their origin.
 
-When in doubt, we support a solution that helps getting things done over one that has theoretical merits but isn't being worked on. Use the tools and methods that help get the job done. Let decisions be taken by those who do the work.
+When in doubt, we support a solution that helps get things done over one that has theoretical merits but isn't being worked on. Use the tools and methods that help get the job done. Let decisions be taken by those who do the work.
 
 ### Support others in the community
 
@@ -85,9 +85,9 @@ If you witness others being treated poorly or abused, think first about how you 
 
 Disagreements, political or technical, happen all the time. Our community is no exception to the rule. The goal is not to avoid disagreements or differing views, but to resolve them constructively. You should turn to the community to seek advice and to resolve disagreements and, where possible, consult the team most directly involved.
 
-Think deeply before turning a disagreement into a public dispute. If a dispute cannot be avoided, request mediation, trying to resolve differences in a less highly-emotional medium. If you do feel that you or your work is being attacked, take your time to breathe through before writing heated replies. Consider a 24-hour moratorium if emotional language is being used — a cooling off period is sometimes all that is needed. If you really want to go a different way, then we encourage you to publish your ideas and your work, so that it can be tried and tested.
+Think deeply before turning a disagreement into a public dispute. If a dispute cannot be avoided, request mediation, trying to resolve differences in a less highly-emotional medium. If you do feel that you or your work is being attacked, take your time to breathe before writing heated replies. Consider a 24-hour moratorium if emotional language is being used — a cooling off period is sometimes all that is needed. If you really want to go a different way, then we encourage you to publish your ideas and your work, so that it can be tried and tested.
 
 
 ## Thanks
 
-This document has been modified from the original which was written for the [Riak Community](https://github.com/basho-labs/the-riak-community) and heavily borrows from the [KDE community](https://www.kde.org/code-of-conduct/) and  [Rust](http://www.rust-lang.org/conduct.html). We're also influenced by the works of [Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [the Ada Initiative](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/) and found some well-worded thoughts from [Django's guide](https://www.djangoproject.com/conduct/).
+This document has been modified from the original, which was written for the [Riak Community](https://github.com/basho-labs/the-riak-community) and heavily borrows from the [KDE community](https://www.kde.org/code-of-conduct/) and  [Rust](http://www.rust-lang.org/conduct.html). We're also influenced by the works of [Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [the Ada Initiative](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/) and found some well-worded thoughts from [Django's guide](https://www.djangoproject.com/conduct/).
