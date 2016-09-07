@@ -15,7 +15,7 @@ Participants are responsible for knowing and abiding by the following:
 * Whether you're a regular contributor or a newcomer, all members care about making this community a safe place for you and we've got your back.
 * We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic.
 * We will exclude you from interaction if you insult, demean, or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
-* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the Slack admins, event organizers, or any member of the Community team at EMC {code} (Jonas Rosland [jonas.rosland@emc.com](mailto:jonas.rosland@emc.com) and Stephanie Carlson [stephanie.carlson@emc.com](mailto:stephanie.carlson@emc.com)).
+* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the Slack admins, event organizers, or any member of the Community admin team at {code} (Jonas Rosland [jonas.rosland@dell.com](mailto:jonas.rosland@dell.com) and Stephanie Carlson [stephanie.carlson@dell.com](mailto:stephanie.carlson@dell.com)).
 * If you believe someone is violating the code of conduct, we ask that you report it by emailing [emccode@emc.com](mailto:emccode@emc.com) or reaching out to the admins of our Slack team (Jonas Rosland (@jonasrosland) and Stephanie Carlson (@stephcarlson). Your privacy will be respected.
 
 These notes help when discussing code and its validity:
@@ -34,13 +34,13 @@ This Code of Conduct presents a summary of the shared values and “common sense
 * [Support others in the community](#support-others-in-the-community)
 * [Get support from others in the community](#get-support-from-others-in-the-community)
 
-This Code of Conduct reflects the agreed standards of behavior for members of our community, in any forum such as mailing list, wiki, website, IRC channels, Slack teams or other online forums, public meetings, or private correspondence within the context of the EMC {code} community. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of mailing lists, IRC channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
+This Code of Conduct reflects the agreed standards of behavior for members of our community, in any forum such as mailing list, wiki, website, IRC channels, Slack teams or other online forums, public meetings, or private correspondence within the context of the {code} Community. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of mailing lists, IRC channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
 
 ### Be considerate
 
 Your actions and work will affect and be used by other people, and you in turn will depend on the work and actions of others. Any decision you make will affect other community members, and we expect you to take those consequences into account when making decisions.
 
-As a contributor, ensure full credit is given for the work of others and bear in mind how your changes will affect others. It is also expected that you try to follow the [contribution guidelines](https://github.com/emccode/emccode.github.io/wiki/How-to-contribute-to-EMC-%7Bcode%7D-and-add-your-project).
+As a contributor, ensure full credit is given for the work of others and bear in mind how your changes will affect others. It is also expected that you try to follow the [contribution guidelines](https://github.com/codedellemc/codedellemc.github.io/wiki/How-to-contribute-to-EMC-%7Bcode%7D-and-add-your-project).
 
 As a user, remember that contributors work hard on their part and take great pride in it. If you are frustrated, your problems are more likely to be resolved if you can give accurate and well-mannered information to all concerned.
 
