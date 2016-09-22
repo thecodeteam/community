@@ -8,6 +8,12 @@ The easiest way to get in contact with fellow {code} members is to join our [Sla
 
 By joining our online community you agree to our [Code of Conduct](docs/code-of-conduct.md).
 
+## Contributions and community programs
+
+Within the {code} community, we run different appreciation, knowledge sharing and promotion programs.
+
+One of those programs is the **DevHigh5** program, aimed towards anyone interested in contributing projects related to Dell EMC technology to the open source community. Head over [here](docs/devhigh5.md) to read more about the DevHigh5 programs.
+
 ## Thank you
 
 Inspired by discussions with [@mjbrender](https://twitter.com/mjbrender) and the [Evangelist Collective](https://evangelistcollective.github.io).
