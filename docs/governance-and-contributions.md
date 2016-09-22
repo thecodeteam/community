@@ -2,7 +2,7 @@
 
 {code} by Dell EMC is a community-based program run for the purpose of enhancing and engaging open source communities. Activities are focused on facilitating and mentoring contributions to open source projects while also having a focus on certain open source technologies that align to EMC areas of interest.  As we are only starting out as a program we do not have a formal governance process, however we do have the following structure:
 
-The {code} Maintainers have the final say on what contributions are accepted or not. That said, the {code} Maintainers are open to hearing your thoughts on what should and should not be part of {code} projects and [DevHigh5 contributions](https://github.com/codedellemc/community/blob/master/docs/devhigh5.md).  Please share your thoughts or contribution ideas in the following ways:
+The {code} Maintainers have the final say on what contributions are accepted or not. That said, the {code} Maintainers are open to hearing your thoughts on what should and should not be part of {code} projects and [DevHigh5 contributions](devhigh5.md).  Please share your thoughts or contribution ideas in the following ways:
 
 ## New Projects:
 Proposals for new projects to be hosted on {code} should be sent to [codedellemc@dell.com](mailto:codedellemc@dell.com).
@@ -47,7 +47,3 @@ Only use the GitHub issues feature to report bugs for existing projects. **Pleas
 
 ## Other Issues:
 All other questions regarding an existing {code} projects should be socialized with the {code} community via the [CodeCommunity](http://codedellemc.com/community) team on Slack.
-
-# Code of Conduct
-
-Please find our [Code of Conduct here](https://github.com/codedellemc/community/blob/master/docs/code-of-conduct.md)

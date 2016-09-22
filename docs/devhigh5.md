@@ -14,7 +14,7 @@ Who can contribute?
 
 How can you contribute?
 -----------------------
-The process involves just 5 simple steps, with expanded details provided [here](https://github.com/codedellemc/community/blob/master/docs/contribute.md).
+The process involves just 5 simple steps, with expanded details provided [here](contribute.md).
 
 1. Open Development
 2. Documentation
@@ -24,7 +24,7 @@ The process involves just 5 simple steps, with expanded details provided [here](
 
 Has anyone contributed yet?
 ---------------------------
-Yes, a number of projects have been contributed by Dell EMC employees and external developers. Just click on the #DevHigh5 tag on the [{code} Github](http://codedellemc.com) page to see all the projects.
+Yes, a number of projects have been contributed by Dell EMC employees and external developers. Just click on the **DevHigh5** tag on the [{code} website](http://codedellemc.com) to see all the projects.
 
 What's in it for contributors?
 ------------------------------

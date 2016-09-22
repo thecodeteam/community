@@ -1,6 +1,6 @@
 projectName
 ======================
-projectName abstract. 1-2 sentences on what this actually does. Remember that all README.md files are required to be done in markdown format. Download a [sample README.md](https://github.com/codedellemc/community/blob/master/docs/sample-README.md) to place in your project.
+projectName abstract. 1-2 sentences on what this actually does. Remember that all README.md files are required to be done in markdown format. You can copy this file and place it in your project.
 
 ## Description
 a description of the projectName more in depth. this can be 2-5 sentences and could also contain bullet points for use cases. Such as:

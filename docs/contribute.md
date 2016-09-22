@@ -12,13 +12,13 @@ Before starting the process, it’s best to engage the {code} team about
 the project, by sending an email to [codedellemc@dell.com](mailto:codedellemc@dell.com). This email should include the following information:
 * Name and Contact Information
 * Description and Overview of the Project
-* Have you reviewed the [DevHigh5 checklist](https://github.com/codedellemc/community/blob/master/docs/devhigh5.md)?
+* Have you reviewed the [DevHigh5 checklist](devhigh5.md)?
 * Links to existing repos or other documents
 * Details on any EMC products that might be involved in the project
 
-All contributors shall follow the Contributor Agreement guidelines [provided here](https://github.com/codedellemc/community/blob/master/docs/contributor-agreement.md).
+All contributors shall follow the Contributor Agreement guidelines [provided here](contributor-agreement.md).
 
-Also see [Governance and Contributions](https://github.com/codedellemc/community/blob/master/docs/governance-and-contributions.md)
+Also see [Governance and Contributions](governance-and-contributions.md)
 
 ### Stage 1 – Open Development
 We encourage open development and collaboration using GitHub.com and personal repositories. The use of GitHub repos helps emphasize good coding, establishing the baseline for how to maintain published code moving forward, and ensure the contents of a project are not sensitive ahead of time.
@@ -30,9 +30,9 @@ It is important to ensure a repo has proper documentation to describe the work a
 
 Is the documentation in Markdown format?  Is it organized in a meaningful way? Is there a problem statement, expectations of code usage, requirements, dependencies, install instructions, and examples in place? Is there recognition/first contributors, references to other code, licensing and support statements in place?
 
-Please use our [sample README.md](https://github.com/codedellemc/community/blob/master/docs/sample-README.md) as a skeleton for your project.
+Please use our [sample README.md](sample-README.md) as a skeleton for your project.
 
-All contributions should be licensed under the MIT license.  Lieu of the MIT license, you may use the BSD 2 or 3 clause license as [outlined here](https://github.com/codedellemc/community/blob/master/docs/license-information.md)
+All contributions should be licensed under the MIT license.  Lieu of the MIT license, you may use the BSD 2 or 3 clause license as [outlined here](license-information.md)
 
 Projects linked to by {code} should license their project code under a license that is recognized by the Open Source Initiative as compliant with the Open Source definition.
 
