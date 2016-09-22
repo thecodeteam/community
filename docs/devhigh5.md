@@ -10,7 +10,7 @@ The technology world is rapidly changing, and open-source software is playing a 
 
 Who can contribute?
 -------------------
-{code} is interested in anyone (Internal, Partners or any developers in open-software communities) that wants to contribute code to better use modern technology with Dell Technologies. We'd also love to work with existing (or future) Dell Technology customers to highlight their projects.
+{code} is interested in anyone (Internal, Partners or any developers in open-software communities) that wants to contribute code to better use modern technology with Dell EMC. We'd also love to work with existing (or future) Dell EMC customers to highlight their projects.
 
 How can you contribute?
 -----------------------
