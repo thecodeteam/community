@@ -9,7 +9,7 @@ The {code} by Dell EMC(tm) team is looking for projects that maximize the presen
 {code} believes in the mantra of **“CODE OPEN, DEPLOY EVERYWHERE”**. If it’s not on GitHub, it doesn’t exist. Certain minimalistic formatting is also required.
 
 Before starting the process, it’s best to engage the {code} team about
-the project, by sending an email to [codedellemc@dell.com](mailto:codedellemc@dell.com). This email should include the following information:
+the project, by sending an email to [emccode@dell.com](mailto:emccode@dell.com). This email should include the following information:
 * Name and Contact Information
 * Description and Overview of the Project
 * Have you reviewed the [DevHigh5 checklist](devhigh5.md)?

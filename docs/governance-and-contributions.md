@@ -5,7 +5,7 @@
 The {code} Maintainers have the final say on what contributions are accepted or not. That said, the {code} Maintainers are open to hearing your thoughts on what should and should not be part of {code} projects and [DevHigh5 contributions](devhigh5.md).  Please share your thoughts or contribution ideas in the following ways:
 
 ## New Projects:
-Proposals for new projects to be hosted on {code} should be sent to [codedellemc@dell.com](mailto:codedellemc@dell.com).
+Proposals for new projects to be hosted on {code} should be sent to [emccode@dell.com](mailto:emccode@dell.com).
 
 Contributions to {code} can be done in many ways, and are defined by the following sets of standards for anyone wanting to contribute.
 
