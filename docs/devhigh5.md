@@ -52,4 +52,4 @@ Not a problem. While we believe that growing those coding skills will help your 
 
 How can I ask questions or get more details?
 --------------------------------------------
-All the links you need are included on the [{code} webpage](https://codedellemc.com), or you can always send an email to codeDellEMC@dell.com.
+All the links you need are included on the [{code} webpage](https://codedellemc.com), or you can always send an email to emccode@emc.com.

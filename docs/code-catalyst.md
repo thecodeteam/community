@@ -10,4 +10,4 @@ Who are the members?
 
 How can you be a part of this?
 -----------------------
-Apply here: [http://codedellemc.com/community](http://codedellemc.com/community)
+Read more about our community programs and apply here: [http://codedellemc.com/community](http://codedellemc.com/community)
